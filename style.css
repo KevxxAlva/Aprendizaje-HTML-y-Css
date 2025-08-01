@@ -44,10 +44,10 @@ body   {
 }
 
 .Perfil {
+    
     display: flex;
     align-items: center;
-    position: left;
-    font-weight: 500;
+    justify-content: center;
 }
 
 .Perfil > * {
